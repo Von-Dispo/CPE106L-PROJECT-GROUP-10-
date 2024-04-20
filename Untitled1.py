@@ -47,3 +47,17 @@ class Inventory():
 
         return
 
+class Medicine ():
+    def __init__(self, name, purpose, expirationDate, dataStored, cost):
+        self.name = name
+        self.purpose = purpose
+        self.expirationDate = expirationDate
+        self.dateStored = dateStored
+        self.cost = cost
+
+    def updateMedicineRecord(self, name, purpose, expirationDate, dateStored, cost):
+        self.name = name
+        self.purpose = purpose
+        self.expirationDate = expirationDate
+        self.dateStored = dateStored
+        self.cost = cost
