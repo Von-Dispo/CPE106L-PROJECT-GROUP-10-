@@ -1,1 +1,8 @@
 # CPE106L-PROJECT-GROUP-10-
+
+CPE106L - Medicine Inventory System
+
+Members:
+VON CARLO GERARD DISPO
+MARK ROBERT BARAQUIEL
+Dannie Rizal Iremedio
