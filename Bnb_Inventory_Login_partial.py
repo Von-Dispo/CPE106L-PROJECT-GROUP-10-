@@ -15,7 +15,7 @@ class MedInvSys():
                 return True
         else: return False
             
-    def CustomerInfo(Customer):
+    def CustomerInfo():
         return   
     
     def CustomerAdd(Customer):
