@@ -44,15 +44,15 @@ class Inventory():
         self.MedPrice = cost
 
 class Customer():
-    def __init__(self, CusName, CusAge, CusGender, CusWeight, CusMedication):
-        self.CusName = name
+    def __init__(self, name, CusAge, CusGender, CusWeight, CusMedication):
+        self.name = name
         self.CusAge = age
         self.CusGender = gender
         self.CusWeight = weight
         self.CusMedication = medication
 
-    def updatePatientRecord(self, CusName, CusAge, CusGender, CusWeight, CusMedication):
-        self.CusName = name
+    def updatePatientRecord(self, name, CusAge, CusGender, CusWeight, CusMedication):
+        self.name = name
         self.CusAge = age
         self.CusGender = gender
         self.CusWeight = weight
